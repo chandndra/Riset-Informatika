@@ -9,6 +9,7 @@
 <li>Apakah tingkat keramaian stasiun dan jumlah penerbangan yang beroperasi di suatu stasiun berpengaruh pada panjang antrian boarding pass ?</li>
 <li>Apa efek samping antrian Boarding Pass kereta yang panjang ?</li>
 <li>Apa solusi yang dapat diusulkan untuk mengoptimalkan proses boarding pass dan mengurangi panjang antrian di stasiun kereta ?</li>
+<li>Apakah dengan menggunakan face recognition akan bisa mengurangi panjang antrian boarding pass di stasiun kereta ?</li>
 
 <h2>Teori</h2>
 <h3>PCA</h3>
