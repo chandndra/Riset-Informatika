@@ -2,10 +2,13 @@
 <h3>Persoalan Praktis : Panjangnya Antrian Boarding Pass Kereta Indonesia</h3> 
 
 <h2>Research Question</h2>
-<li>Apa saja faktor penyebab antrian panjang saat proses Boarding Pass kereta ?</li>
+<li>Apa faktor-faktor yang mempengaruhi panjangnya antrian dalam melakukan boarding pass kereta ?</li>
 <li>Bagaimana panjangnya antrian Boarding Pass kereta dapat mempengaruhi aktivitas pengguna kereta ?</li>
+<li>Apakah waktu dan hari tertentu berdampak pada panjang antrian untuk melakuakn boarding pass kereta ?</li>
+<li>Bagaimana penggunaan teknologi dalam sistem boarding pass dapat mengurangi panjang antrian di stasiun kereta ?</li>
+<li>Apakah tingkat keramaian stasiun dan jumlah penerbangan yang beroperasi di suatu stasiun berpengaruh pada panjang antrian boarding pass ?</li>
 <li>Apa efek samping antrian Boarding Pass kereta yang panjang ?</li>
-<li>Apakah ada tindakan preventif dalam rangka menanggulangi panjangnya antrian boarding pass kereta sehingga dapat menyelesaikan permasalahan tersebut ? ?</li>
+<li>Apa solusi yang dapat diusulkan untuk mengoptimalkan proses boarding pass dan mengurangi panjang antrian di stasiun kereta ?</li>
 
 <h2>Teori</h2>
 <h3>PCA</h3>
